@@ -1,7 +1,7 @@
 
- 🚦 Road Accident Analysis Dashboard
+# 🚦 Road Accident Analysis Dashboard
 
-📌 Project Overview
+## 📌 Project Overview
 
 The Road Accident Analysis Dashboard is an interactive Excel dashboard developed to analyze road accident data and understand accident patterns, casualty severity, vehicle types, road conditions, and other important factors.
 
@@ -9,7 +9,7 @@ This project uses Microsoft Excel to transform raw accident data into meaningful
 
 The dashboard helps users explore accident statistics and understand different factors that contribute to road accidents.
 
-🎯 Project Objectives
+## 🎯 Project Objectives
 
 - To analyze road accident data and identify important trends.
 - To understand fatal, serious, and slight casualty severity.
@@ -17,7 +17,7 @@ The dashboard helps users explore accident statistics and understand different f
 - To compare casualties based on road surface and light conditions.
 - To create an interactive dashboard for effective data visualization.
 
-🛠️ Tools and Technologies
+## 🛠️ Tools and Technologies
 
 - Microsoft Excel
 - Pivot Tables
@@ -26,25 +26,25 @@ The dashboard helps users explore accident statistics and understand different f
 - Data Cleaning and Data Analysis
 - Excel Dashboard and Data Visualization
 
-📊 Dashboard Features
+## 📊 Dashboard Features
 
-1. Casualty Severity Analysis
+### 1. Casualty Severity Analysis
 Displays the number of casualties based on severity:
 - Fatal Severity
 - Serious Severity
 - Slight Severity
 
-2. Casualties by Vehicle Type
+### 2. Casualties by Vehicle Type
 Analyzes casualties involving different types of vehicles, such as:
 - Cars
 - Buses
 - Motorcycles
 - Other vehicle categories
 
-3. Monthly Casualty Trend
+### 3. Monthly Casualty Trend
 Shows the monthly comparison of casualties for 2020 and 2021 to understand changes in accident patterns over time.
 
-4. Casualties by Road Type
+### 4. Casualties by Road Type
 Analyzes casualties across different road types:
 - Single Carriageway
 - Dual Carriageway
@@ -52,25 +52,25 @@ Analyzes casualties across different road types:
 - One Way Street
 - Slip Road
 
-5. Casualties by Road Surface
+### 5. Casualties by Road Surface
 Visualizes casualties based on road surface conditions:
 - Dry
 - Wet
 - Icy
 - Other conditions
 
-6. Area-Wise Casualties
+### 6. Area-Wise Casualties
 Compares casualties in urban and rural areas.
 
-7. Casualties by Light Condition
+### 7. Casualties by Light Condition
 Analyzes casualties under different lighting conditions:
 - Daylight
 - Darkness
 
-8. Interactive Filter Panel
+### 8. Interactive Filter Panel
 Provides filters for accident date and weather conditions to explore the dashboard based on selected criteria.
 
-📈 Key Dashboard Insights
+## 📈 Key Dashboard Insights
 
 Based on the dashboard:
 
@@ -82,7 +82,7 @@ Based on the dashboard:
 
 The dashboard also provides comparisons based on road type, road surface, area type, and lighting conditions.
 
-📂 Project Files
+## 📂 Project Files
 
 | File | Description |
 |------|-------------|
